@@ -1,15 +1,9 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: SET Cloud
+subtitle: Seu HD Virtual
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+description: Acesse seu HD virtual de acordo com a sua unidade SET <br> <h3>SET UNIDADE 1</h3> <br> <a href="http://192.168.1.5/owncloud"><h3>SET UNIDADE 2</h3> </a><br>OBS= O serviço é acessível apenas na rede interna da sua unidade.
 
 ---
