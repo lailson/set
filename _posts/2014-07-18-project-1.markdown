@@ -4,6 +4,6 @@ subtitle: Seu HD Virtual
 layout: default
 modal-id: 1
 
-description: Acesse seu HD virtual de acordo com a sua unidade SET <br> <h3>SET UNIDADE 1</h3> <br> <a href="http://192.168.1.5/owncloud"><h3>SET UNIDADE 2</h3> </a><br>OBS= O serviço é acessível apenas na rede interna da sua unidade.
+description: Acesse seu HD virtual de acordo com a sua unidade SET <br> <a href="http://192.168.10.5/owncloud"><h3>SET UNIDADE 1</h3></a> <br> <a href="http://192.168.1.5/owncloud"><h3>SET UNIDADE 2</h3> </a><br>OBS= O serviço é acessível apenas na rede interna da sua unidade.
 
 ---
